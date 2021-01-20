@@ -1,0 +1,25 @@
+.col1{
+	background-color: pink;
+	color: #fff;
+	text-align: center;
+}
+
+.col2{
+	background-color: #42f2f5;
+	color: #fff;
+	text-align: center;
+
+}
+.nestedcol1{
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+.nestedcol2{
+	background-color: #cad0db;
+	color: white;
+	text-align: center;
+}
+.col3{
+	background-color: #4287f5;
+}
